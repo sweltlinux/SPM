@@ -1,2 +1,2 @@
 # SPM
-The SWELT Linux Package manager.
+The SWELT Linux Package manager built using rust.
