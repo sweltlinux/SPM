@@ -1,0 +1,13 @@
+[package]
+name = "SPM"
+authors = ["RealMrCactus <teitgenbhraedain@gmail.com>", "SWELT Linux"]
+version = "0.1.0"
+edition = "2021"
+description = "A package manager for SWELT Linux"
+license = "GPL 3.0"
+license-file = "LICENSE"
+repository = "https://github.com/sweltlinux/SPM"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
